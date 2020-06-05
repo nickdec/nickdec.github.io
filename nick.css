@@ -1,8 +1,6 @@
 
-@media only screen and (max-device-width: 480px) {
-        div#wrapper {
-            width: 400px;
-        }
+@media only screen and (max-device-width: 300px) {
+       
 
        body {
 		margin-left: 10%;
