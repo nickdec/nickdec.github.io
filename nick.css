@@ -3,7 +3,8 @@ body {
 	margin-left: 10%;
 	margin-right: 10%;
 	font-family:Georgia,Serif;
-	font-size:26px;
+	font-size:30px;
+	color:black;
 }
 
 a:link {text-decoration:none;}  
@@ -12,7 +13,7 @@ a img {
   border: 5px solid white; 
 } 
 a img:hover { 
-  border: 5px solid orange; 
+  border: 5px solid purple; 
 } 
 
 li{
