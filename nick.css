@@ -2,8 +2,8 @@
 body {
 	margin-left: 10%;
 	margin-right: 10%;
-	font-family:Georgia,Serif;
-	font-size:30px;
+	font-family:Courier New,Serif;
+	font-size:27px;
 	color:black;
 }
 
@@ -13,7 +13,7 @@ a img {
   border: 5px solid white; 
 } 
 a img:hover { 
-  border: 5px solid purple; 
+  border: 5px solid black; 
 } 
 
 li{
