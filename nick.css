@@ -23,7 +23,6 @@ li{
 	margin-right: 5pt;
 }
 
-
 html { overflow-y: scroll; } /* so scroll bar doesn't move the content to the left  */
 
 ul
@@ -33,15 +32,6 @@ list-style-type: none;
 
 .menu-trigger{
 	display:none;
-}
-
-
-#w3 {
-	z-index:-1;
-	right: 0px;
-	bottom: 0px;
-	position:fixed;
-	margin:1em;
 }
 
 }
