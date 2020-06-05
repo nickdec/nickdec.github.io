@@ -1,4 +1,30 @@
 
+@media only screen and (max-device-width: 480px) {
+        div#wrapper {
+            width: 400px;
+        }
+
+       body {
+		margin-left: 10%;
+		margin-right: 10%;
+		font-family:Courier New,Serif;
+		font-size:38px;
+		color:black;
+	       float: none;
+	       width: 100%;
+        }
+
+	
+	li{
+		margin-top: 2pt;
+		display: inline;
+		margin-left: 5pt;
+		margin-right: 5pt;
+	}
+	
+    }
+
+
 body {
 	margin-left: 10%;
 	margin-right: 10%;
