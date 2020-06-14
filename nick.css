@@ -2,8 +2,8 @@
 body {
 	margin-left: 10%;
 	margin-right: 10%;
-	font-family:"Lucida Console", Courier, monospace;
-	font-size:36px;
+	font-family:Courier, monospace;
+	font-size:30px;
 	
 }
 
@@ -24,8 +24,8 @@ a img:hover {
 }
 
 .gateway p, #contact p {
-	font-family:"Lucida Console", Courier, monospace;
-	font-size:24px;
+	font-family:Courier, monospace;
+	font-size:20px;
 }
 
 li{
