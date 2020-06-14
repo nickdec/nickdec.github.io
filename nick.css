@@ -1,0 +1,77 @@
+
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family:"Lucida Console", Courier, monospace;
+	font-size:36px;
+	
+}
+
+a:link {text-decoration:none;}  
+
+a img { 
+  border: 5px solid white; 
+
+} 
+a img:hover { 
+  border: 5px solid black; 
+} 
+
+.imgContainer{
+    display:inline-block;
+    margin-left: 25pt;
+
+}
+
+.gateway p, #contact p {
+	font-family:"Lucida Console", Courier, monospace;
+	font-size:24px;
+}
+
+li{
+	margin-top: 2pt;
+	display: inline;
+	margin-left: 5pt;
+	margin-right: 5pt;
+	
+}
+
+
+html { overflow-y: scroll; } /* so scroll bar doesn't move the content to the left  */
+
+ul
+{
+list-style-type: none;
+}
+
+.menu-trigger{
+	display:none;
+}
+
+
+#w3 {
+	z-index:-1;
+	right: 0px;
+	bottom: 0px;
+	position:fixed;
+	margin:1em;
+}
+
+}
+mark {
+    background-color: orange;
+    color: black;
+} 
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
